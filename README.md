@@ -49,7 +49,10 @@ Multi-Language Support: Enhance the NLP model to support multiple languages for 
 
 Contributors
 
-Dharaneshwar - Lead Developer and Project Manager
+Dharaneshwar - Backend Developer and Project Manager
+Boomika - lead developer
+Gunalan - UI/UX designer and R&D
+Karpooraasundarapandian - Frontend developer and R&D
 
 
 License
