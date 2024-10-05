@@ -1,0 +1,161 @@
+Prisoner_ID,Prisoner_Name,Section,Escape Risk,Influence Risk,Previous_Convictions,Severity(%),Bailable,Cognizable,Compoundable,Offence,Behavior,Special Statutes
+1,Rajesh Kumar,IPC_140,No,No,3,5,True,True,Yes,"Wearing the dress or carrying any token used by a soldier, sailor or airman with intent that it may be believed that he is such a soldier, sailor or airman",Neutral,Offences Against the State
+2,Sunita Singh,IPC_212,No,No,1,30,True,True,Yes,"Harbouring an offender, If the offence be capital",Neutral,Offences Against the State
+3,Pooja Sharma,IPC_299,No,No,2,90,False,True,No,Culpable Homicide,Neutral,None
+4,Mohan Lal,IPC_154,No,No,0,10,True,False,Yes,"Owner or occupier of land non giving information of riot, etc.",Neutral,Offences Against the State
+5,Asha Devi,IPC_233,Yes,Yes,4,70,False,True,No,"Making, buying or selling instrument for the purpose of counterfeiting coin",Disciplinary issues,Offences Against the State
+6,Deepak Gupta,IPC_318,No,No,0,60,True,True,Yes,Concealment of birth by secret disposal of dead body,Neutral,Crimes Against Children
+7,Anil Bhatt,IPC_217,Yes,Yes,3,20,True,False,Yes,"Public servant disobeying a direction of law with intent to save person from punishment, or property from forfeiture",Disciplinary issues,Offences Against the State
+8,Rekha Yadav,IPC_193,No,No,2,50,True,False,Yes,Giving or fabricating false evidence in a judicial proceeding,Disciplinary issues,Offences Against the State
+9,Suresh Patil,IPC_372,No,No,1,80,False,True,No,"Selling or letting to hire a minor for purposes of prostitution, etc.",Good behaviour,Crimes Against Children
+10,Priya Malhotra,IPC_235,Yes,Yes,4,75,False,True,No,Possession of instrument or material for the purpose of using the same for counterfeiting coin,Good behaviour,Economic Offense
+11,Vivek Sharma,IPC_264,Yes,No,3,40,True,False,Yes,Fraudulent use of false instrument for weighing,Good behaviour,Economic Offense
+12,Shweta Mehta,IPC_296,No,Yes,5,50,True,True,Yes,Causing a disturbance to an assembly engaged in religious worship,Disciplinary issues,Crimes Against Religion
+13,Ravi Kumar,IPC_145,No,No,0,60,True,True,Yes,"Joining or continuing in an unlawful assembly, Knowing that it has been commanded to disperse",Neutral,Offences Against the State
+14,Anjali Singh,IPC_138,No,No,1,10,True,True,Yes,"Abetment of act of insubordination by an officer, soldier, sailor or airman, if the offence be committed in consequence",Neutral,Offences Against the State
+15,Sandeep Kumar,IPC_331,Yes,Yes,2,90,False,True,No,"Voluntarily causing grievous hurt to extort confession or information or to compel restoration of property, etc.",Good behaviour,None
+16,Aarti Patel,IPC_400,No,No,3,80,False,True,No,Belonging to a gang of persons associated for the purpose of habitually committing Dacoity,Neutral,Economic Offences
+17,Rajesh Sharma,IPC_366,No,Yes,0,75,False,True,No,Kidnapping or abducting a woman to compel her marriage or to cause her defilement etc.,Neutral,Crimes Against Women
+18,Neeta Gupta,IPC_171,No,No,4,30,False,True,No,As described,Neutral,Offences Against the State
+19,Deepak Sharma,IPC_378,Yes,Yes,2,50,False,True,Yes,Theft,Good behaviour,None
+20,Sonali Yadav,IPC_189,No,No,1,30,True,False,Yes,"Threatening a public servant with injury to him or one in whom he is interested, to induce him to do or forbear to do any official act",Good behaviour,Offences Against the State
+21,Arun Sharma,IPC_263A,No,Yes,3,40,True,True,Yes,Fictitious stamps,Disciplinary issues,Economic Offense
+22,Neelam Kumar,IPC_175,Yes,No,6,40,True,False,Yes,Intentionally omitting to produce a document to a public servant by a person legally bound to produce deliver such document,Neutral,Offences Against the State
+23,Ravi Patel,IPC_187,Yes,Yes,0,45,True,False,Yes,Omission to assist public servant when bound by law to give such assistance,Neutral,Offences Against the State
+24,Maya Singh,IPC_279,No,No,2,60,True,True,Yes,"Driving or riding on a public way so rashly or negligently as to endanger human life, etc.",Good behaviour,None
+25,Rajat Gupta,IPC_327,No,Yes,4,70,False,True,No,"Voluntarily causing hurt to extort property or a valuable security, or to constrain to do anything illegal",Disciplinary issues,None
+26,Simran Kaur,IPC_258,No,No,1,70,False,True,No,Sale of counterfeit Government stamp,Neutral,Economic Offense
+27,Amar Singh,IPC_290,Yes,Yes,2,20,True,False,Yes,Committing a public nuisance,Neutral,None
+28,Kiran Mehta,IPC_176,No,No,1,45,True,False,Yes,Intentionally omitting to Give notice or information to a public servant by a person legally bound to Give such notice or information,Disciplinary issues,Offences Against the State
+29,Ramesh Patel,IPC_319,No,Yes,3,60,False,True,Yes,Hurt,Disciplinary issues,None
+30,Sunil Kumar,IPC_174,Yes,No,2,30,True,False,Yes,"Not obeying a legal order to attend at a certain place in person or by agent, or departing therefrom without authority",Good behaviour,Offences Against the State
+31,Deepa Sharma,IPC_342,No,No,4,40,True,True,Yes,Wrongfully confining any person,Neutral,None
+32,Priyanka Roy,IPC_157,No,Yes,0,40,True,True,Yes,Harbouring persons hired for an unlawful assembly,Good behaviour,Offences Against the State
+33,Manoj Kumar,IPC_231,Yes,No,2,80,False,True,No,"Counterfeiting, or performing any part of the process of counterfeiting coin",Disciplinary issues,Offences Against the State
+34,Nisha Gupta,IPC_306,Yes,No,3,80,False,True,No,Abetting the Commission of suicide,Disciplinary issues,None
+35,Ravi Sharma,IPC_280,No,Yes,4,60,True,True,Yes,"Navigating any vessel so rashly or negligently as to endanger human life, etc.",Good behaviour,None
+36,Meera Singh,IPC_333,No,No,1,70,False,True,No,Voluntarily causing grievous hurt to deter public servant from his duty,Neutral,None
+37,Rajeev Patel,IPC_300,Yes,Yes,3,100,False,True,No,Murder,Good behaviour,None
+38,Anu Sharma,IPC_185,No,No,1,35,True,False,Yes,"Bidding, by a person under a legal incapacity to purchase it, for property at a lawfully authorized Sale, or bidding without intending to perform the obligations incurred thereby",Good behaviour,Offences Against the State
+39,Vikram Singh,IPC_212,Yes,No,2,30,True,True,Yes,"Harbouring an offender, If the offence be capital",Good behaviour,Offences Against the State
+40,Aarti Gupta,IPC_356,No,Yes,4,50,True,True,Yes,Assault or criminal force in attempt to commit theft of property worn or carried by a person,Good behaviour,None
+41,Amit Kumar,IPC_222,No,No,0,85,False,True,No,"Intentional omission to apprehend on the part of A public servant bound by law to apprehend person under sentence of a court of Justice, If under sentence of death",Neutral,Offences Against the State
+42,Sunita Yadav,IPC_269,Yes,Yes,3,60,True,True,Yes,Negligently doing any act known to be likely to spread infection of any disease dangerous to life,Disciplinary issues,None
+43,Mohit Sharma,IPC_354,No,No,2,70,False,True,No,Assault or use of criminal force to woman with intent to outrage her modesty,Neutral,Crimes Against Women
+44,Priya Patel,IPC_335,No,Yes,4,40,True,True,Yes,"Causing grievous hurt on Grave and sudden provocation, not intending to hurt and other than the person who gave provocation",Neutral,None
+45,Gaurav Kumar,IPC_270,Yes,No,1,80,True,True,Yes,Malignantly doing any act known to be likely to spread infection of any disease dangerous to life,Disciplinary issues,None
+46,Ritu Singh,IPC_311,No,No,3,100,False,True,No,OffencePunishment,Good behaviour,None
+47,Rahul Mehta,IPC_189,Yes,Yes,2,30,True,False,Yes,"Threatening a public servant with injury to him or one in whom he is interested, to induce him to do or forbear to do any official act",Disciplinary issues,Offences Against the State
+48,Neelam Gupta,IPC_179,No,Yes,1,50,True,False,Yes,"Being legally bound to state truth, and refusing to answer questions",Neutral,Offences Against the State
+49,Rakesh Kumar,IPC_367,Yes,No,3,85,False,True,No,"Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.",Disciplinary issues,Crimes Against Children
+50,Nisha Patel,IPC_300,Yes,No,2,100,False,True,No,Murder,Disciplinary issues,None
+51,Deepak Singh,IPC_312,No,Yes,4,60,True,False,Yes,Causing miscarriage,Good behaviour,Crimes Against Women
+52,Manju Sharma,IPC_299,Yes,No,3,90,False,True,No,Culpable Homicide,Neutral,None
+53,Ravi Patel,IPC_219,No,No,2,40,True,False,Yes,"Public servant in a judicial proceeding corruptly Making and pronouncing an order, report, Verdict, or decision which he knows to be contrary to law",Good behaviour,Offences Against the State
+54,Asha Sharma,IPC_179,Yes,Yes,1,50,True,False,Yes,"Being legally bound to state truth, and refusing to answer questions",Disciplinary issues,Offences Against the State
+55,Kiran Kumar,IPC_308,No,Yes,3,70,False,True,Yes,Attempt to commit culpable homicide,Neutral,None
+56,Sandeep Patel,IPC_275,No,No,2,70,True,False,Yes,Offering for sale or issuing from a dispensary any drug or medical preparation known to have been adulterated,Disciplinary issues,Crimes Against Public Health
+57,Sonal Gupta,IPC_250,Yes,No,1,65,False,True,No,Delivery to another of coin possessed with the knowledge that it is altered,Neutral,Economic Offense
+58,Ashok Kumar,IPC_274,No,Yes,4,70,False,False,No,"Adulterating any drug or medical preparation intended for sale so as to lessen its efficacy, or to change its operation, or to make it noxious",Good behaviour,Crimes Against Public Health
+59,Poonam Yadav,IPC_301,No,Yes,3,60,False,True,No,Culpable Homicide by Causing Death,Disciplinary issues,None
+60,Vikas Patel,IPC_338,Yes,No,2,60,True,True,Yes,"Causing grievous hurt by an act which endangers human life, etc.",Good behaviour,None
+61,Neetu Sharma,IPC_305,No,No,1,100,False,True,No,"Abetment of suicide committed by child or insane or delirious person or an idiot, or a person intoxicated",Good behaviour,Crimes Against Children
+62,Arvind Singh,IPC_322,No,Yes,3,80,False,True,Yes,Voluntarily Causing Grievous Hurt,Good behaviour,None
+63,Divya Patel,IPC_291,Yes,Yes,2,40,True,True,Yes,Committing a nuisance after injunction to discontinue,Neutral,None
+64,Ankit Kumar,IPC_305,Yes,No,4,100,False,True,No,"Abetment of suicide committed by child or insane or delirious person or an idiot, or a person intoxicated",Good behaviour,Crimes Against Children
+65,Gita Sharma,IPC_192,No,Yes,3,40,True,True,Yes,an election agent making a false declaration in relation to an election,Neutral,Offences Against the State
+66,Ravi Kumar,IPC_316,No,No,2,70,False,True,No,Causing death of a quick unborn child by an act amounting to culpable homicide,Neutral,Crimes Against Women
+67,Shalini Gupta,IPC_279,Yes,Yes,4,60,True,True,Yes,"Driving or riding on a public way so rashly or negligently as to endanger human life, etc.",Neutral,None
+68,Prem Singh,IPC_292,No,No,1,80,True,True,Yes,"Sale, etc., of obscene books, etc.",Disciplinary issues,Crimes Against Public Morality
+69,Rekha Patel,IPC_317,Yes,No,2,70,True,True,Yes,Exposure of a child under 12 Years of age by parent or person having care of it with intention of wholly abandoning it,Good behaviour,Crimes Against Children
+70,Amit Sharma,IPC_346,No,Yes,3,80,True,True,Yes,Wrongful confinement in secret,Good behaviour,None
+71,Sunil Mehta,IPC_191,No,No,4,35,True,True,Yes,candidate or proposer making a false declaration in relation to an election,Neutral,Offences Against the State
+72,Vandana Singh,IPC_326,Yes,Yes,1,90,False,True,No,Voluntarily causing grievous hurt by dangerous weapons or means,Good behaviour,None
+73,Mohan Sharma,IPC_320,No,No,2,90,False,True,Yes,Grievous Hurt,Disciplinary issues,None
+74,Ramesh Yadav,IPC_285,Yes,Yes,3,70,True,True,Yes,"Dealing with fire or any combustible matter so as to endanger human life, etc.",Neutral,None
+75,Anita Kumar,IPC_351,No,Yes,2,45,True,True,Yes,Assault,Disciplinary issues,None
+76,Sunita Sharma,IPC_190,Yes,No,3,25,True,False,Yes,Threatening any person to induce him to refrain From making a legal application for protection From injury,Neutral,Offences Against the State
+77,Pankaj Patel,IPC_276,No,No,4,70,True,False,Yes,Knowingly selling or issuing from a dispensary any drug or medical preparation as a different drug or medical preparation,Neutral,Crimes Against Public Health
+78,Monika Gupta,IPC_187,Yes,Yes,1,45,True,False,Yes,Omission to assist public servant when bound by law to give such assistance,Good behaviour,Offences Against the State
+79,Kunal Kumar,IPC_306,No,Yes,2,80,False,True,No,Abetting the Commission of suicide,Good behaviour,None
+80,Sheetal Patel,IPC_321,No,No,3,60,False,True,Yes,Voluntarily Causing Hurt,Good behaviour,None
+81,Rajiv Mehta,IPC_296,Yes,No,1,50,True,True,Yes,Causing a disturbance to an assembly engaged in religious worship,Good behaviour,Crimes Against Religion
+82,Nitin Sharma,IPC_219,Yes,Yes,4,40,True,False,Yes,"Public servant in a judicial proceeding corruptly Making and pronouncing an order, report, Verdict, or decision which he knows to be contrary to law",Neutral,Offences Against the State
+83,Meenal Gupta,IPC_275,No,No,2,70,True,False,Yes,Offering for sale or issuing from a dispensary any drug or medical preparation known to have been adulterated,Disciplinary issues,Crimes Against Public Health
+84,Aman Singh,IPC_336,No,Yes,3,30,True,True,Yes,Doing any act which endangers human life or the personal safety of others,Neutral,None
+85,Kusum Yadav,IPC_342,Yes,No,4,40,True,True,Yes,Wrongfully confining any person,Good behaviour,None
+86,Sunil Patel,IPC_261,No,Yes,2,60,True,True,Yes,"Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it, with intent to cause a loss to Government",Disciplinary issues,Economic Offense
+87,Lata Sharma,IPC_330,Yes,No,3,70,True,True,Yes,"Voluntarily causing hurt to extort confession or information of property, etc.",Disciplinary issues,None
+88,Vijay Kumar,IPC_287,Yes,Yes,1,60,True,False,Yes,So dealing with any machinery,Disciplinary issues,None
+89,Seema Gupta,IPC_189,No,Yes,2,30,True,False,Yes,"Threatening a public servant with injury to him or one in whom he is interested, to induce him to do or forbear to do any official act",Disciplinary issues,Offences Against the State
+90,Rajesh Mehta,IPC_309,Yes,No,4,40,True,True,Yes,Attempt to commit suicide,Neutral,None
+91,Kanika Sharma,IPC_295,Yes,Yes,3,70,False,True,Yes,"Destroying, damaging or defiling a place of worship or sacred object with intent to insult the religion of any class of persons",Neutral,Crimes Against Religion
+92,Rani Yadav,IPC_182,No,No,1,65,True,False,Yes,Giving false information to a public servant in order to cause him to use his lawful power to the injury or annoyance of any person,Good behaviour,Offences Against the State
+93,Ajeet Kumar,IPC_275,No,Yes,2,70,True,False,Yes,Offering for sale or issuing from a dispensary any drug or medical preparation known to have been adulterated,Good behaviour,Crimes Against Public Health
+94,Maya Singh,IPC_282,No,No,3,60,True,True,Yes,"Conveying for hire any person by water, in a vessel in such a state, or so loaded, as to endanger his life",Disciplinary issues,None
+95,Priti Patel,IPC_295,Yes,No,4,70,False,True,Yes,"Destroying, damaging or defiling a place of worship or sacred object with intent to insult the religion of any class of persons",Good behaviour,Crimes Against Religion
+96,Anil Kumar,IPC_293,No,Yes,2,80,True,True,Yes,"Sale etc., of obscene objects to young persons",Neutral,Crimes Against Public Morality
+97,Sushma Sharma,IPC_321,Yes,Yes,3,60,False,True,Yes,Voluntarily Causing Hurt,Good behaviour,None
+98,Gaurav Singh,IPC_256,Yes,No,1,75,False,True,No,Having possession of an instrument or material for the purpose of counterfeiting a Government stamp,Good behaviour,Economic Offense
+99,Manisha Patel,IPC_314,No,Yes,4,90,False,True,No,Death caused by an act done with intent to cause miscarriage,Good behaviour,Crimes Against Women
+100,Karan Sharma,IPC_282,No,No,3,60,True,True,Yes,"Conveying for hire any person by water, in a vessel in such a state, or so loaded, as to endanger his life",Neutral,None
+101,Richa Yadav,IPC_277,Yes,Yes,2,50,True,True,Yes,Defiling the water of a public spring or reservoir,Neutral,Crimes Against Public Health
+102,Harsh Kumar,IPC_339,No,No,3,30,True,True,Yes,Wrongfully restraining any person,Disciplinary issues,None
+103,Seema Sharma,IPC_261,Yes,No,1,60,True,True,Yes,"Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it, with intent to cause a loss to Government",Neutral,Economic Offense
+104,Om Prakash,IPC_308,No,Yes,4,70,False,True,Yes,Attempt to commit culpable homicide,Disciplinary issues,None
+105,Anita Yadav,IPC_213,No,Yes,2,30,True,True,Yes,"Taking gift, etc., to screen an offender from punishment, If the offence be capital",Good behaviour,Offences Against the State
+106,Pankaj Kumar,IPC_324,Yes,No,3,70,False,True,No,Voluntarily causing hurt by dangerous weapons or means,Good behaviour,None
+107,Sunil Gupta,IPC_331,Yes,No,4,90,False,True,No,"Voluntarily causing grievous hurt to extort confession or information or to compel restoration of property, etc.",Neutral,None
+108,Priya Sharma,IPC_277,No,Yes,2,50,True,True,Yes,Defiling the water of a public spring or reservoir,Disciplinary issues,Crimes Against Public Health
+109,Arun Yadav,IPC_306,No,No,3,80,False,True,No,Abetting the Commission of suicide,Neutral,None
+110,Vishal Kumar,IPC_239,Yes,Yes,1,75,False,True,No,"Having any counterfeit coin known to be such when it came into possession, and delivering, etc., the same to any person",Neutral,Economic Offense
+111,Meena Gupta,IPC_274,No,No,4,70,False,False,No,"Adulterating any drug or medical preparation intended for sale so as to lessen its efficacy, or to change its operation, or to make it noxious",Neutral,Crimes Against Public Health
+112,Anil Sharma,IPC_278,No,Yes,2,50,True,False,Yes,Making atmosphere noxious to health,Good behaviour,Crimes Against Public Health
+113,Mona Singh,IPC_322,Yes,No,3,80,False,True,Yes,Voluntarily Causing Grievous Hurt,Neutral,None
+114,Kiran Kumar,IPC_310,No,Yes,2,80,False,True,No,Thug,Disciplinary issues,None
+115,Sanjay Gupta,IPC_345,No,No,1,75,True,True,Yes,"Keeping any person in wrongful confinement, knowing that a writ has been issued for his liberation",Disciplinary issues,None
+116,Neetu Patel,IPC_286,Yes,No,3,60,True,True,Yes,So dealing with any explosive substance,Neutral,None
+117,Ramesh Kumar,IPC_342,Yes,Yes,4,40,True,True,Yes,Wrongfully confining any person,Disciplinary issues,None
+118,Komal Sharma,IPC_277,Yes,Yes,2,50,True,True,Yes,Defiling the water of a public spring or reservoir,Good behaviour,Crimes Against Public Health
+119,Rajesh Gupta,IPC_248,No,No,3,60,False,True,No,Altering appearance of any coin with intent that it shall pass as a coin of a different description,Disciplinary issues,Economic Offense
+120,Gaurav Sharma,IPC_292,Yes,Yes,2,80,True,True,Yes,"Sale, etc., of obscene books, etc.",Good behaviour,Crimes Against Public Morality
+121,Mona Patel,IPC_312,No,No,4,60,True,False,Yes,Causing miscarriage,Good behaviour,Crimes Against Women
+122,Naveen Kumar,IPC_296,Yes,Yes,3,50,True,True,Yes,Causing a disturbance to an assembly engaged in religious worship,Disciplinary issues,Crimes Against Religion
+123,Neha Singh,IPC_293,No,No,2,80,True,True,Yes,"Sale etc., of obscene objects to young persons",Disciplinary issues,Crimes Against Public Morality
+124,Rakesh Sharma,IPC_261,No,No,4,60,True,True,Yes,"Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it, with intent to cause a loss to Government",Good behaviour,Economic Offense
+125,Suman Gupta,IPC_317,Yes,Yes,3,70,True,True,Yes,Exposure of a child under 12 Years of age by parent or person having care of it with intention of wholly abandoning it,Good behaviour,Crimes Against Children
+126,Kavita Patel,IPC_282,No,Yes,1,60,True,True,Yes,"Conveying for hire any person by water, in a vessel in such a state, or so loaded, as to endanger his life",Disciplinary issues,None
+127,Ankit Singh,IPC_277,Yes,No,2,50,True,True,Yes,Defiling the water of a public spring or reservoir,Disciplinary issues,Crimes Against Public Health
+128,Pooja Gupta,IPC_283,No,No,3,50,True,True,Yes,"Causing danger, obstruction or, injury in any public way or line of navigation",Disciplinary issues,None
+129,Harsh Yadav,IPC_290,Yes,Yes,4,20,True,False,Yes,Committing a public nuisance,Neutral,None
+130,Meena Patel,IPC_140,No,Yes,2,5,True,True,Yes,"Wearing the dress or carrying any token used by a soldier, sailor or airman with intent that it may be believed that he is such a soldier, sailor or airman",Good behaviour,Offences Against the State
+131,Vipin Kumar,IPC_316,Yes,No,3,70,False,True,No,Causing death of a quick unborn child by an act amounting to culpable homicide,Neutral,Crimes Against Women
+132,Nisha Sharma,IPC_323,No,No,1,45,True,True,Yes,Voluntarily causing hurt,Disciplinary issues,None
+133,Pankaj Singh,IPC_310,No,Yes,4,80,False,True,No,Thug,Disciplinary issues,None
+134,Sheetal Kumar,IPC_273,Yes,Yes,2,70,True,False,Yes,"Selling any food or drink as food and drink, knowing the same to be noxious",Good behaviour,Crimes Against Public Health
+135,Shikha Gupta,IPC_275,Yes,No,3,70,True,False,Yes,Offering for sale or issuing from a dispensary any drug or medical preparation known to have been adulterated,Good behaviour,Crimes Against Public Health
+136,Manoj Yadav,IPC_340,No,Yes,2,40,False,True,Yes,Wrongfully confining any person,Disciplinary issues,None
+137,Rani Kumar,IPC_261,No,Yes,3,60,True,True,Yes,"Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it, with intent to cause a loss to Government",Neutral,Economic Offense
+138,Harsha Patel,IPC_274,Yes,No,4,70,False,False,No,"Adulterating any drug or medical preparation intended for sale so as to lessen its efficacy, or to change its operation, or to make it noxious",Disciplinary issues,Crimes Against Public Health
+139,Sunil Gupta,IPC_239,No,Yes,1,75,False,True,No,"Having any counterfeit coin known to be such when it came into possession, and delivering, etc., the same to any person",Good behaviour,Economic Offense
+140,Anita Sharma,IPC_293,No,No,3,80,True,True,Yes,"Sale etc., of obscene objects to young persons",Neutral,Crimes Against Public Morality
+141,Rakesh Patel,IPC_287,Yes,Yes,2,60,True,False,Yes,So dealing with any machinery,Good behaviour,None
+142,Meena Sharma,IPC_321,Yes,No,4,60,False,True,Yes,Voluntarily Causing Hurt,Neutral,None
+143,Anil Gupta,IPC_275,No,No,3,70,True,False,Yes,Offering for sale or issuing from a dispensary any drug or medical preparation known to have been adulterated,Neutral,Crimes Against Public Health
+144,Suman Kumar,IPC_326,Yes,Yes,2,90,False,True,No,Voluntarily causing grievous hurt by dangerous weapons or means,Disciplinary issues,None
+145,Sushma Yadav,IPC_309,No,Yes,4,40,True,True,Yes,Attempt to commit suicide,Good behaviour,None
+146,Ravi Gupta,IPC_322,Yes,No,3,80,False,True,Yes,Voluntarily Causing Grievous Hurt,Neutral,None
+147,Gaurav Sharma,IPC_300,No,No,2,100,False,True,No,Murder,Good behaviour,None
+148,Sunita Kumar,IPC_274,No,Yes,4,70,False,False,No,"Adulterating any drug or medical preparation intended for sale so as to lessen its efficacy, or to change its operation, or to make it noxious",Neutral,Crimes Against Public Health
+149,Mohan Patel,IPC_276,Yes,No,1,70,True,False,Yes,Knowingly selling or issuing from a dispensary any drug or medical preparation as a different drug or medical preparation,Disciplinary issues,Crimes Against Public Health
+150,Rekha Sharma,IPC_294,No,Yes,2,40,True,True,Yes,Obscene Songs,Good behaviour,Crimes Against Public Morality
+151,Pooja Yadav,IPC_331,Yes,No,3,90,False,True,No,"Voluntarily causing grievous hurt to extort confession or information or to compel restoration of property, etc.",Neutral,None
+152,Ravi Patel,IPC_277,No,Yes,4,50,True,True,Yes,Defiling the water of a public spring or reservoir,Neutral,Crimes Against Public Health
+153,Priya Gupta,IPC_318,No,Yes,2,60,True,True,Yes,Concealment of birth by secret disposal of dead body,Disciplinary issues,Crimes Against Children
+154,Rajesh Kumar,IPC_339,Yes,No,3,30,True,True,Yes,Wrongfully restraining any person,Good behaviour,None
+155,Neelam Yadav,IPC_293,No,No,4,80,True,True,Yes,"Sale etc., of obscene objects to young persons",Disciplinary issues,Crimes Against Public Morality
+156,Vikas Sharma,IPC_283,No,Yes,2,50,True,True,Yes,"Causing danger, obstruction or, injury in any public way or line of navigation",Neutral,None
+157,Seema Patel,IPC_325,Yes,No,3,90,True,True,No,Voluntarily causing grievous hurt,Neutral,None
+158,Arun Kumar,IPC_331,Yes,No,4,90,False,True,No,"Voluntarily causing grievous hurt to extort confession or information or to compel restoration of property, etc.",Disciplinary issues,None
+159,Kavita Sharma,IPC_295,No,Yes,1,70,False,True,Yes,"Destroying, damaging or defiling a place of worship or sacred object with intent to insult the religion of any class of persons",Neutral,Crimes Against Religion
+160,Aarti Gupta,IPC_279,No,Yes,2,60,True,True,Yes,"Driving or riding on a public way so rashly or negligently as to endanger human life, etc.",Disciplinary issues,None
