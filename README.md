@@ -53,8 +53,3 @@ Dharaneshwar - Backend Developer and Project Manager
 Boomika - lead developer
 Gunalan - UI/UX designer and R&D
 Karpooraasundarapandian - Frontend developer and R&D
-
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
